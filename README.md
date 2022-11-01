@@ -29,7 +29,7 @@ const marcone = {
 ```
 
 <br>
-<a href="#macropower-title">
+<a href="#marcone-title">
   <img src="https://raw.githubusercontent.com/Marcone-zz/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
