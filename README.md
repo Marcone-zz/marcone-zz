@@ -24,7 +24,7 @@ const marcone = {
         devOps: ["AWS", "Google Cloud"],
         misc: ["Firebase", "GraphQL", "Socket.IO", "Heroku"],
     },
-  more: ["GetX", "Bloc", "Modular"],
+  more: ["GetX", "Bloc", "Riverpod", "Modular"],
 }
 ```
 
