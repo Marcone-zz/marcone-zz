@@ -3,7 +3,7 @@
 <p><em>Flutter Lead Engineer at <a href="https://www.mesainc.com.br">Mesa</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<!--[![Medium Badge](https://img.shields.io/badge/-@marcone.ads-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@marcone.ads)](https://medium.com/@marcone.ads) -->
+[![Medium Badge](https://img.shields.io/badge/-@marcone.ads-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@marcone.ads)](https://medium.com/@marcone.ads)
 [![Linkedin: Marcone](https://img.shields.io/badge/-Marcone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcone-de-assis-4420a4185/)](https://www.linkedin.com/in/marcone-de-assis-4420a4185/)
 ![](https://komarev.com/ghpvc/?username=marcone-zz)
 [![Gmail Badge](https://img.shields.io/badge/-marcone.ads-c14438?label=E-mail&logo=Gmail&logoColor=white&color=blue&link=mailto:marcone.ads@gmail.com)](mailto:marcone.ads@gmail.com)
